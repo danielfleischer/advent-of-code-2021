@@ -4,3 +4,9 @@
 :END:
 
 My code solutions to the [[https://adventofcode.com/][Advent of Code 2021]] challenge.
+
+- [[file:Notebooks/day01.ipynb][Day 1]].
+- [[file:Notebooks/day02.ipynb][Day 2]].
+- [[file:Notebooks/day03.ipynb][Day 3]].
+- [[file:Notebooks/day04.ipynb][Day 4]].
+
