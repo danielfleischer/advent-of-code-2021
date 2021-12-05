@@ -9,4 +9,5 @@ My code solutions to the [[https://adventofcode.com/][Advent of Code 2021]] chal
 - [[file:Notebooks/day02.ipynb][Day 2]].
 - [[file:Notebooks/day03.ipynb][Day 3]].
 - [[file:Notebooks/day04.ipynb][Day 4]].
+- [[file:Notebooks/day05.ipynb][Day 5]].
 
