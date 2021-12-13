@@ -17,3 +17,4 @@ My code solutions to the [[https://adventofcode.com/][Advent of Code 2021]] chal
 - [[file:Notebooks/day10.ipynb][Day 10]].
 - [[file:Notebooks/day11.ipynb][Day 11]].
 - [[file:Notebooks/day12.ipynb][Day 12]].
+- [[file:Notebooks/day13.ipynb][Day 13]].
