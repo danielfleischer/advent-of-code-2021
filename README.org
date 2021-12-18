@@ -22,3 +22,5 @@ My code solutions to the [[https://adventofcode.com/][Advent of Code 2021]] chal
 - [[file:Notebooks/day15.ipynb][Day 15]].
 - [[file:Notebooks/day16.ipynb][Day 16]].
 - [[file:Notebooks/day17.ipynb][Day 17]].
+- [[file:Notebooks/day18.ipynb][Day 18]].
+
