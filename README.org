@@ -25,4 +25,5 @@ My code solutions to the [[https://adventofcode.com/][Advent of Code 2021]] chal
 - [[file:Notebooks/day18.ipynb][Day 18]].
 - Day 19, not yet!
 - [[file:Notebooks/day20.ipynb][Day 20]].
+- [[file:Notebooks/day21.ipynb][Day 21 naive]].
 
